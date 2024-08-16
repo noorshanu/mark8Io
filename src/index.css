@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Manrope-Regular";
+  src: url("/fonts/Manrope-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Manrope-bold";
+  src: url("/fonts/Manrope-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Manrope-SemiBold";
+  src: url("/fonts/Manrope-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Manrope-Medium";
+  src: url("/fonts/Manrope-Medium.ttf");
+}
+
+@layer base {
+  .container-wrapper {
+    @apply max-w-[1240px] w-[90%] mx-auto;
+  }
+}
+
+body {
+  background-color: #121212;
+  color: #fff;
+}
+
+.css-1vx3a4p {
+  pointer-events: none;
+  width: 1200px;
+  height: 720px;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-image: radial-gradient(
+    ellipse at center,
+    #42149f98,
+    transparent 60%
+  );
+  z-index: -1;
+}
+
+
+@keyframes textShine {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+.txt-g {
+ 
+ 
+
+  background: linear-gradient(
+    to right,
+    #42149f 20%,
+    #bd9036 30%,
+    #e2a121 70%,
+    #5d22d3c0 80%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 500% auto;
+  animation: textShine 5s ease-in-out infinite alternate;
+}
+
+.btn-main{
+  background: linear-gradient(88deg,#6e5012 -11.16%,#42149fc2 46.95%,#42149f 94.89%)
+}
+
+
+.btn-main:hover{
+  background: linear-gradient(88deg,#42149f -11.16%,#42149f66 46.95%,#6e5012 94.89%)
+}
+
+
+.img-hov:hover{
+  animation: rotate 1s linear;
+}
+
+@keyframes rotate{
+  0%{
+      transform: rotate(0deg);
+  }
+  50%{
+      transform: rotate(180deg);
+  }
+  100%{
+      transform: rotate(360deg);
+  }
+}
