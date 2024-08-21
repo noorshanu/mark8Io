@@ -52,6 +52,46 @@ body {
   z-index: -1;
 }
 
+.css-we{
+
+  pointer-events: none;
+  width: 800px;
+  height: 450px;
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-image: radial-gradient(
+    ellipse at center,
+    #42149f98,
+    transparent 60%
+  );
+  z-index: -1;
+}
+
+.css-we3{
+
+  pointer-events: none;
+  border-radius: 100px;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-image: radial-gradient(
+    ellipse at center,
+    #e2a22133,
+    transparent 60%
+  );
+  z-index: -1;
+}
 
 @keyframes textShine {
   0% {
