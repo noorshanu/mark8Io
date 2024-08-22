@@ -5,6 +5,8 @@ import BelowSec from "./sections/BelowSec";
 import Cta from "./sections/Cta";
 import Hero from "./sections/Hero";
 import Services from "./sections/Services";
+import Teams from "./sections/Teams";
+import WhatotherSay from "./sections/WhatotherSays";
 
 function App() {
   return (
@@ -26,6 +28,10 @@ function App() {
         </div>
 
         <Services/>
+
+        <div>
+          <WhatotherSay/>
+        </div>
 
         <div>
           <Cta/>

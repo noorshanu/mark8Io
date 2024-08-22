@@ -3,7 +3,7 @@ import React from 'react'
 function Cta() {
   return (
    <section className=' py-8'>
-    <div className=' container-wrapper py-12 px-6 bg-[#1a1a1a] border border-prime rounded-2xl'>
+    <div className=' container-wrapper py-12 px-6 bg-[#1a1a1a] border border-[#757575] rounded-2xl'>
 
         <div className=' flex flex-col justify-center gap-2 items-center'>
 
