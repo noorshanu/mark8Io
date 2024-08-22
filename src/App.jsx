@@ -9,7 +9,7 @@ import Services from "./sections/Services";
 function App() {
   return (
     <>
-      <div className=" overflow-x-hidden h-[100vh]">
+      <div className=" overflow-visible sm:overflow-x-hidden ">
         <div className="css-1vx3a4p"></div>
         <Navbar />
 

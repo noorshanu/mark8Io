@@ -9,14 +9,14 @@ function About() {
     </div>
     <div className=' container-wrapper'>
 
-        <div className=' flex justify-between items-center'>
+        <div className=' flex justify-between items-center flex-col sm:flex-row gap-3'>
 
             <div className=' w-full sm:w-1/2'>
-                <img src="assets/asset 26.svg" alt="" className='  h-[450px] shadow-md' />
+                <img src="assets/asset 26.svg" alt="" className='  h-[450px] shadow-md nft' />
             </div>
 
             <div className=' w-full sm:w-1/2'>
-                <h2 className=' text-6xl font-manbold pb-4'>
+                <h2 className=' text-4xl sm:text-6xl font-manbold pb-4'>
                 Unlock Revenue Growth 
                  for Your <span className=' text-prime'>
                  Business

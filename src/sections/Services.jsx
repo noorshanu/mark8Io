@@ -9,7 +9,7 @@ function Services() {
             Effective solutions to business challenges for Web 3.0 projects
           </p>
 
-          <h1 className=" text-center text-5xl font-manbold font-bold py-2">
+          <h1 className=" text-center text-3xl sm:text-5xl font-manbold font-bold py-2">
             Our Industries
           </h1>
 
@@ -23,7 +23,7 @@ function Services() {
         </div>
 
         <div className=" mt-4 justify-center gap-6 items-center grid grid-cols-1 sm:grid-cols-3">
-          <div className=" bg-[#1a1a1a] border-prime border py-4 px-6 rounded-xl">
+          <div className=" nft border-prime border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">Social Media Marketing</h2>
 
@@ -41,28 +41,7 @@ function Services() {
             <a href="/">Know More</a>
           </div>
 
-          <div className=" bg-[#1a1a1a] border-prime border py-4 px-6 rounded-xl">
-            <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
-            <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">Social Media Marketing</h2>
-
-            <p className=" text-start pb-1">
-              In the dynamic world of web3, a strong social media presence is
-              crucial. Our social media marketing services include:
-            </p>
-
-            <ul className=" list-disc ml-4 ">
-              <li>Strategy Development</li>
-
-              <li>Content Creation</li>
-            </ul>
-
-            <a href="/">Know More</a>
-          </div>
-
-
-
-
-          <div className=" bg-[#1a1a1a] border-prime border py-4 px-6 rounded-xl">
+          <div className="  nft border-prime border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">Social Media Marketing</h2>
 
@@ -83,8 +62,7 @@ function Services() {
 
 
 
-
-          <div className=" bg-[#1a1a1a] border-prime border py-4 px-6 rounded-xl">
+          <div className="  nft border-prime border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">Social Media Marketing</h2>
 
@@ -106,7 +84,7 @@ function Services() {
 
 
 
-          <div className=" bg-[#1a1a1a] border-prime border py-4 px-6 rounded-xl">
+          <div className="  nft border-prime border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">Social Media Marketing</h2>
 
@@ -127,7 +105,29 @@ function Services() {
 
 
 
-          <div className=" bg-[#1a1a1a] border-prime border py-4 px-6 rounded-xl">
+
+          <div className="  nft border-prime border py-4 px-6 rounded-xl">
+            <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
+            <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">Social Media Marketing</h2>
+
+            <p className=" text-start pb-1">
+              In the dynamic world of web3, a strong social media presence is
+              crucial. Our social media marketing services include:
+            </p>
+
+            <ul className=" list-disc ml-4 ">
+              <li>Strategy Development</li>
+
+              <li>Content Creation</li>
+            </ul>
+
+            <a href="/">Know More</a>
+          </div>
+
+
+
+
+          <div className="  nft border-prime border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">Social Media Marketing</h2>
 

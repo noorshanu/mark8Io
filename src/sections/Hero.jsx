@@ -6,10 +6,10 @@ function Hero() {
         
         <div className=' container-wrapper pb-4'>
 
-       <div className=' flex justify-between items-center'>
+       <div className=' flex justify-between items-center flex-col sm:flex-row'>
        <div className=' w-full sm:w-1/2' data-aos="zoom-in-right"
           data-aos-duration="1500">
-            <h1 className=' text-7xl font-manbold txt-g'>
+            <h1 className=' text-5xl sm:text-7xl font-manbold txt-g'>
             Elevate Your <br />
             Web3 Presence
             </h1>
@@ -27,7 +27,7 @@ function Hero() {
             <div className=' w-full sm:w-1/2' data-aos="zoom-in-left"
           data-aos-duration="1500">
 
-            <img src="images/hero.webp" alt="" className=' mx-auto h-[450px] img-hov' />
+            <img src="images/hero.webp" alt="" className=' mx-auto h-auto sm:h-[450px] img-hov' />
 
             </div>
 

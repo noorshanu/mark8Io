@@ -7,12 +7,12 @@ function Cta() {
 
         <div className=' flex flex-col justify-center gap-2 items-center'>
 
-                <h1 className='text-5xl font-manbold font-bold text-center py-1'>
+                <h1 className=' text-3xl sm:text-5xl font-manbold font-bold text-center py-1'>
                 <span className=' text-prime '>Tell us your marketing challenge</span>, and 
                 we'll  
                 </h1>
 
-                <h1 className='text-5xl font-manbold font-bold text-center'>
+                <h1 className= 'text-3xl sm:text-5xl font-manbold font-bold text-center'>
                 prepare a customized solution for you.
                 </h1>
 

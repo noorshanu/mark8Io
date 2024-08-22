@@ -6,15 +6,15 @@ function BelowSec() {
        <div className="css-we"></div>
 
       <div className=" my-6">
-        <p className=" text-center font-manbold text-white text-4xl py-2  ">
+        <p className=" text-center font-manbold text-white text-2xl sm:text-4xl py-2  ">
         Our <span className=" text-prime">Crypto Marketing</span> Agency Attracts Over 
         </p>
 
-        <p className=" text-center font-manbold text-white text-4xl  py-1 ">
+        <p className=" text-center font-manbold text-white text-2xl sm:text-4xl  py-1 ">
         <span className=" text-prime">100,000  </span> New Token Holders Per Month for 
         </p>
 
-        <p className=" text-center font-manbold text-white text-4xl py-1  ">
+        <p className=" text-center font-manbold text-white text-2xl sm:text-4xl py-1  ">
         Our Clients.
         </p>
       </div>
