@@ -295,7 +295,7 @@ body {
 }
 
 .bg-green-box::after {
-  background: linear-gradient(71deg, #0d1212, #3da077, #0d1212);
+  background: linear-gradient(71deg, #0d1212, #dd6f2b, #0d1212);
 }
 
 .swiper-pagination-bullet {
