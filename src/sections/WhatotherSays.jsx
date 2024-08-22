@@ -3,6 +3,7 @@ import Teams from "./Teams";
 function WhatotherSay() {
   return (
     <section className="relative py-10">
+       <div className="css-we"></div>
       <img
         src="images/rightring.png"
         alt=""

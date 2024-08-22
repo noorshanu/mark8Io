@@ -28,8 +28,10 @@ function App() {
         </div>
 
         <Services/>
+        <div className=" h-[30px]"> 
 
-        <div>
+</div>
+        <div className=" py-8">
           <WhatotherSay/>
         </div>
 
