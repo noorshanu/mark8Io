@@ -4,6 +4,7 @@ import About from "./sections/About";
 import BelowSec from "./sections/BelowSec";
 import Cta from "./sections/Cta";
 import Hero from "./sections/Hero";
+import Hero2 from "./sections/Hero2";
 import Services from "./sections/Services";
 import Teams from "./sections/Teams";
 import WhatotherSay from "./sections/WhatotherSays";
@@ -11,11 +12,12 @@ import WhatotherSay from "./sections/WhatotherSays";
 function App() {
   return (
     <>
-      <div className=" overflow-visible sm:overflow-x-hidden ">
+      <div className=" overflow-visible sm:overflow-x-clip ">
         <div className="css-1vx3a4p"></div>
         <Navbar />
 
-        <Hero />
+        {/* <Hero /> */}
+        <Hero2 />
         <div className=" h-[30px]"></div>
         <div className=" mb-4">
           <BelowSec />
@@ -23,26 +25,20 @@ function App() {
 
         <About />
 
-        <div className=" h-[30px]"> 
+        <div className=" h-[30px]"></div>
 
-        </div>
-
-        <Services/>
-        <div className=" h-[30px]"> 
-
-</div>
+        <Services />
+        <div className=" h-[30px]"></div>
         <div className=" py-8">
-          <WhatotherSay/>
+          <WhatotherSay />
         </div>
 
         <div>
-          <Cta/>
+          <Cta />
         </div>
 
         <div className="">
-
-          <Footer/>
-
+          <Footer />
         </div>
       </div>
     </>

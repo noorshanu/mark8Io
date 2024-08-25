@@ -7,7 +7,7 @@ function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="  py-2  w-full z-40 ">
+    <nav className="  py-2  w-full z-40 absolute">
       <div className=" container-wrapper mx-auto  flex justify-between items-center    py-1 ">
         {/* Logo */}
         <div className="flex items-center flex-shrink-0 mr-6">
@@ -25,27 +25,33 @@ function Navbar() {
             href="/"
             className="text-white font-bold text-lg px-3 py-2 font-archo"
           >
-           About Us
+            About Us
           </a>
           <a href="#about" className="text-white font-bold text-lg px-3 py-2">
-           Product
+            Product
           </a>
           <a href="#col" className="text-white font-bold text-lg px-3 py-2">
-       Stake
+            Stake
           </a>
 
           <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
-         FAQ
+            FAQ
           </a>
           <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
-        How to buy
+            How to buy
           </a>
         </div>
 
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
           <div className=" flex items-center gap-4 text-white  ml-5">
-          <a href="/" className="  shadow-xl  py-2 px-4 font-archo text-center text-base rounded-2xl font-manbold font-bold btn-main border border-[#000] "> Connect Wallet</a>
+            <a
+              href="/"
+              className="  shadow-xl  py-2 px-4 font-archo text-center text-base rounded-2xl font-manbold font-bold btn-main border border-[#000] "
+            >
+              {" "}
+              Connect Wallet
+            </a>
           </div>
         </div>
 

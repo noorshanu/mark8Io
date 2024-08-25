@@ -52,8 +52,7 @@ body {
   z-index: -1;
 }
 
-.css-we{
-
+.css-we {
   pointer-events: none;
   width: 800px;
   height: 450px;
@@ -72,8 +71,7 @@ body {
   z-index: -1;
 }
 
-.css-wee{
-
+.css-wee {
   pointer-events: none;
   width: 800px;
   height: 450px;
@@ -92,8 +90,7 @@ body {
   z-index: -1;
 }
 
-.css-we3{
-
+.css-we3 {
   pointer-events: none;
   border-radius: 100px;
   width: 500px;
@@ -123,9 +120,6 @@ body {
 }
 
 .txt-g {
- 
- 
-
   background: linear-gradient(
     to right,
     #42149f 20%,
@@ -141,35 +135,39 @@ body {
   animation: textShine 5s ease-in-out infinite alternate;
 }
 
-.btn-main{
-  background: linear-gradient(88deg,#6e5012 -11.16%,#42149fc2 46.95%,#42149f 94.89%)
+.btn-main {
+  background: linear-gradient(
+    88deg,
+    #6e5012 -11.16%,
+    #42149fc2 46.95%,
+    #42149f 94.89%
+  );
 }
 
-
-.btn-main:hover{
-  background: linear-gradient(88deg,#42149f -11.16%,#42149f66 46.95%,#6e5012 94.89%)
+.btn-main:hover {
+  background: linear-gradient(
+    88deg,
+    #42149f -11.16%,
+    #42149f66 46.95%,
+    #6e5012 94.89%
+  );
 }
 
-
-.img-hov:hover{
+.img-hov:hover {
   animation: rotate 1s linear;
 }
 
-@keyframes rotate{
-  0%{
-      transform: rotate(0deg);
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
   }
-  50%{
-      transform: rotate(180deg);
+  50% {
+    transform: rotate(180deg);
   }
-  100%{
-      transform: rotate(360deg);
+  100% {
+    transform: rotate(360deg);
   }
 }
-
-
-
-
 
 /* nft card */
 .nft2 {
@@ -343,7 +341,6 @@ body {
   color: #fff;
 }
 
-
 .swiper {
   margin: auto;
 }
@@ -363,4 +360,29 @@ body {
   background: linear-gradient(71deg, #08050950, #1a171c, #080509af);
   background-clip: padding-box;
   border-radius: 45px;
+}
+
+.rotate-in {
+  perspective-origin: center;
+  transform: rotateX(50deg);
+  opacity: 0;
+}
+
+.rotate-in:nth-child(1) {
+  animation: rotateAnim 1s ease-in forwards;
+}
+
+.rotate-in:nth-child(2) {
+  animation: rotateAnim 1s ease-in 0.3s forwards;
+}
+
+@keyframes rotateAnim {
+  0% {
+    transform: rotateX(50deg);
+    opacity: 0;
+  }
+  100% {
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
 }
