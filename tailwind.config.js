@@ -9,7 +9,7 @@ export default {
       mansemibold: ["Manrope-SemiBold"],
     },
     colors: {
-      prime: "#e2a121",
+      prime: "#005dff",
     },
     extend: {},
   },

@@ -18,7 +18,7 @@ function App() {
 
         {/* <Hero /> */}
         <Hero2 />
-        <div className=" h-[30px]"></div>
+       
         <div className=" mb-4">
           <BelowSec />
         </div>

@@ -8,14 +8,14 @@ function Navbar() {
 
   return (
     <nav className="  py-2  w-full z-40 absolute">
-      <div className=" container-wrapper mx-auto  flex justify-between items-center    py-1 ">
+      <div className=" container-wrapper mx-auto  flex justify-between items-center    pb-1 ">
         {/* Logo */}
         <div className="flex items-center flex-shrink-0 mr-6">
           <a
             href="/"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
-            <img src="images/logo.webp" className="h-[80px]" alt=" Logo" />
+            <img src="images/logo.png" className="h-[90px]" alt=" Logo" />
           </a>
         </div>
 
@@ -47,7 +47,7 @@ function Navbar() {
           <div className=" flex items-center gap-4 text-white  ml-5">
             <a
               href="/"
-              className="  shadow-xl  py-2 px-4 font-archo text-center text-base rounded-2xl font-manbold font-bold btn-main border border-[#000] "
+              className="  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border "
             >
               {" "}
               Connect Wallet

@@ -19,7 +19,7 @@ function BelowSec() {
         </p>
       </div>
       <Marquee>
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
           <img
             src="assets/asset6.webp"
             alt=""
@@ -27,7 +27,7 @@ function BelowSec() {
           />
         </div>
 
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
           <img
             src="assets/asset7.webp"
             alt=""
@@ -35,7 +35,7 @@ function BelowSec() {
           />
         </div>
 
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
           <img
             src="assets/asset 8.webp"
             alt=""
@@ -43,7 +43,7 @@ function BelowSec() {
           />
         </div>
 
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl   py-3  px-2 mx-2">
           <img
             src="assets/asset 9.webp"
             alt=""
@@ -51,7 +51,7 @@ function BelowSec() {
           />
         </div>
 
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
           <img
             src="assets/asset 10.webp"
             alt=""
@@ -59,7 +59,7 @@ function BelowSec() {
           />
         </div>
 
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
           <img
             src="assets/asset 11.svg"
             alt=""
@@ -67,7 +67,7 @@ function BelowSec() {
           />
         </div>
 
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
           <img
             src="assets/asset 12.webp"
             alt=""
@@ -76,7 +76,7 @@ function BelowSec() {
         </div>
 
   
-        <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+        <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
           <img
             src="assets/asset 20.webp"
             alt=""
@@ -88,7 +88,7 @@ function BelowSec() {
 
       <div className=" py-4 mt-4">
         <Marquee direction="right">
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 13.webp"
               alt=""
@@ -96,7 +96,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 14.svg"
               alt=""
@@ -104,7 +104,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 15.avif"
               alt=""
@@ -112,7 +112,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 16.avif"
               alt=""
@@ -120,7 +120,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 17.webp"
               alt=""
@@ -128,7 +128,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 18.svg"
               alt=""
@@ -136,7 +136,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 19.svg"
               alt=""
@@ -144,7 +144,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 21.svg"
               alt=""
@@ -152,7 +152,7 @@ function BelowSec() {
             />
           </div>
 
-          <div className=" bg-[#1c1b21] border flex justify-center  items-center rounded-2xl border-prime  py-3  px-2 mx-2">
+          <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
               src="assets/asset 22.webp"
               alt=""

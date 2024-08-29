@@ -106,12 +106,12 @@ const Hero2 = () => {
           <h1
             ref={heading}
             style={{ transformStyle: "preserve-3d" }}
-            className="font-manbold text-prime leading-none whitespace-nowrap"
+            className="font-manbold txt-grad leading-none whitespace-nowrap"
           >
-            <span ref={span1} className="inline-block">
+            <span ref={span1} className="inline-block txt-grad">
               Meet
             </span>{" "}
-            <span ref={span2} className="inline-block">
+            <span ref={span2} className="inline-block txt-grad">
               Mark8
             </span>
           </h1>
