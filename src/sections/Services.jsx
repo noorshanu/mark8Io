@@ -2,7 +2,7 @@ import { FaArrowTrendUp } from "react-icons/fa6";
 
 function Services() {
   return (
-    <div className=" relative py-8">
+    <div className=" relative py-8" id="services">
       <div className="css-wee"></div>
       <div className=" container-wrapper">
         <div>

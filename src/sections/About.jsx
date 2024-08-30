@@ -2,12 +2,17 @@ import React from "react";
 
 function About() {
   return (
-    <section className=" py-8 relative">
+    <section className=" py-8 relative" id="about">
       <div className="css-we3"></div>
       <div className=" container-wrapper">
         <div className=" flex justify-between items-center flex-col sm:flex-row gap-3">
-          <div className=" w-full sm:w-1/2" data-aos="fade-right"  data-aos-offset="500"  data-aos-duration="1000"
-     data-aos-easing="ease-in-sine">
+          <div
+            className=" w-full sm:w-1/2"
+            data-aos="fade-right"
+            data-aos-offset="500"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-sine"
+          >
             <img
               src="assets/asset 26.svg"
               alt=""
@@ -15,8 +20,13 @@ function About() {
             />
           </div>
 
-          <div className=" w-full sm:w-1/2" data-aos="fade-left"  data-aos-offset="500"  data-aos-duration="1000"
-     data-aos-easing="ease-in-sine">
+          <div
+            className=" w-full sm:w-1/2"
+            data-aos="fade-left"
+            data-aos-offset="500"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-sine"
+          >
             <h2 className=" text-4xl sm:text-6xl font-manbold pb-4 font-medium">
               Unlock Revenue Growth for Your{" "}
               <span className=" txt-grad font-bold">Business</span>
