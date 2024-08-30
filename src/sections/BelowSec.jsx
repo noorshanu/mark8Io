@@ -86,7 +86,7 @@ function BelowSec() {
     
       </Marquee>
 
-      <div className=" py-4 mt-4">
+      {/* <div className=" py-4 mt-4">
         <Marquee direction="right">
           <div className=" bg-[#080808]    flex justify-center  items-center rounded-2xl    py-3  px-2 mx-2">
             <img
@@ -160,7 +160,7 @@ function BelowSec() {
             />
           </div>
         </Marquee>
-      </div>
+      </div> */}
 
       <p className=" text-center text-xs text-[#cfcfcf] py-4">
       Experience in promoting 90+ Crypto, NFT and Web3 projects

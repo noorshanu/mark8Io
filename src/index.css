@@ -70,7 +70,7 @@ body {
   transform: translate(-50%, -50%);
   background-image: radial-gradient(
     ellipse at center,
-    #42149f98,
+    #005eff42,
     transparent 60%
   );
   z-index: -1;
@@ -89,7 +89,7 @@ body {
   transform: translate(-50%, -50%);
   background-image: radial-gradient(
     ellipse at center,
-    #42149f98,
+    #005eff42,
     transparent 60%
   );
   z-index: -1;
@@ -109,7 +109,7 @@ body {
   transform: translate(-50%, -50%);
   background-image: radial-gradient(
     ellipse at center,
-    #e2a22133,
+    #005eff42,
     transparent 60%
   );
   z-index: -1;
