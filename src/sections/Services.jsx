@@ -39,127 +39,171 @@ function Services() {
               <li>Strategy Development</li>
 
               <li>Content Creation</li>
-              <li>
-              Platform Management
-              </li>
+              <li>Platform Management</li>
 
-              <li>
-              Analytics & Reporting
-
-              </li>
+              <li>Analytics & Reporting</li>
             </ul>
 
             <div className="flex justify-center items-center py-3">
-            <a href="/" className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2">Know More <FaArrowTrendUp className=" underline" /></a>
+              <a
+                href="/"
+                className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
+              >
+                Know More <FaArrowTrendUp className=" underline" />
+              </a>
             </div>
           </div>
 
           <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-inter font-bold  text-prime pb-2">
-            Tier 1 & 2 Exchange Listing
+              Tier 1 & 2 Exchange Listing
             </h2>
 
             <p className=" text-start pb-1 font-light">
-            Getting listed on top exchanges can significantly enhance your project's credibility and visibility. Our services include:
+              Getting listed on top exchanges can significantly enhance your
+              project's credibility and visibility. Our services include:
             </p>
 
             <ul className=" list-disc ml-4 ">
-              <li>Research & Analysis
-              t</li>
+              <li>Research & Analysis </li>
 
               <li>Liquidity Provision</li>
-              <li>
-              Application Support
-              </li>
-              <li>
-              Post-Listing Promotion
-              </li>
+              <li>Application Support</li>
+              <li>Post-Listing Promotion</li>
             </ul>
 
             <div className="flex justify-center items-center py-3">
-            <a href="/" className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2">Know More <FaArrowTrendUp className=" underline" /></a>
+              <a
+                href="/"
+                className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
+              >
+                Know More <FaArrowTrendUp className=" underline" />
+              </a>
             </div>
           </div>
 
           <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
-            Public Relations (PR)
+              Public Relations (PR)
             </h2>
 
             <p className=" text-start pb-1">
-              In the dynamic world of web3, a strong social media presence is
-              crucial. Our social media marketing services include:
+              Building a strong public image is essential for any web3 project.
+              Our PR services include:
             </p>
 
             <ul className=" list-disc ml-4 ">
-              <li>Strategy Development</li>
+              <li>Media Relations</li>
 
-              <li>Content Creation</li>
+              <li>Press Releases</li>
+
+              <li>Media Training</li>
+              <li>Crisis Management</li>
             </ul>
 
-            <a href="/">Know More</a>
+            <div className="flex justify-center items-center  py-6">
+              <a
+                href="/"
+                className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
+              >
+                Know More <FaArrowTrendUp className=" underline" />
+              </a>
+            </div>
           </div>
 
           <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
-              Social Media Marketing
+            Community Management
             </h2>
 
             <p className=" text-start pb-1">
-              In the dynamic world of web3, a strong social media presence is
-              crucial. Our social media marketing services include:
+            A vibrant and engaged community is the backbone of any successful web3 project. Our community management services include:
             </p>
 
             <ul className=" list-disc ml-4 ">
-              <li>Strategy Development</li>
+              <li>Community Building</li>
 
-              <li>Content Creation</li>
+              <li>Engagement Strategies</li>
+              <li>
+              Moderation
+              </li>
+
+              <li>
+              Feedback Management
+              </li>
             </ul>
 
-            <a href="/">Know More</a>
+            <div className="flex justify-center items-center py-3">
+              <a
+                href="/"
+                className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
+              >
+                Know More <FaArrowTrendUp className=" underline" />
+              </a>
+            </div>
           </div>
 
           <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
-              Social Media Marketing
+            CMG & CG Listing
             </h2>
 
             <p className=" text-start pb-1">
-              In the dynamic world of web3, a strong social media presence is
-              crucial. Our social media marketing services include:
+            Visibility on major crypto listing platforms like CoinMarketCap (CMC) and CoinGecko (CG) is crucial. Our services include:
             </p>
 
             <ul className=" list-disc ml-4 ">
-              <li>Strategy Development</li>
+              <li>Listing Preparation</li>
+              <li>
+              Application Process
+              </li>
 
-              <li>Content Creation</li>
+              <li>Post-Listing Optimization</li>
             </ul>
-
-            <a href="/">Know More</a>
+            <div className="flex justify-center items-center py-3">
+              <a
+                href="/"
+                className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
+              >
+                Know More <FaArrowTrendUp className=" underline" />
+              </a>
+            </div>
           </div>
 
           <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
-              Social Media Marketing
+            KOL & Influencer Marketing
             </h2>
 
             <p className=" text-start pb-1">
-              In the dynamic world of web3, a strong social media presence is
-              crucial. Our social media marketing services include:
+            Leverage the power of key opinion leaders (KOLs) and influencers to boost your brand’s reach. Our services include::
             </p>
 
             <ul className=" list-disc ml-4 ">
-              <li>Strategy Development</li>
+              <li>Influencer Identification</li>
 
-              <li>Content Creation</li>
+              <li>Campaign Development</li>
+              <li>
+              Partnership Management
+              </li>
+
+              <li>
+              Performance Tracking
+              </li>
             </ul>
-
-            <a href="/">Know More</a>
+            <div className="flex justify-center items-center py-3">
+              <a
+                href="/"
+                className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
+              >
+                Know More <FaArrowTrendUp className=" underline" />
+              </a>
+            </div>
           </div>
         </div>
       </div>
