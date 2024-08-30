@@ -4,7 +4,7 @@ import { FaInstagram } from "react-icons/fa6";
 
 function Footer() {
   return (
-  <section className=' relative mt-8'>
+  <section className=' relative mt-1'>
 
 
     <div className=' container-wrapper border-t border-[#005eff9d]'>
