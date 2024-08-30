@@ -5,11 +5,11 @@ function Footer() {
   <section className=' relative mt-8'>
 
 
-    <div className=' container-wrapper border-t border-[#e2a22183]'>
+    <div className=' container-wrapper border-t border-[#005eff9d]'>
 
         <div className=' flex justify-between items-center mt-4 '>
 
-            <img src="images/logo.webp" alt="" />
+            <img src="images/logo.png" alt="" className=' h-[140px]' />
 
         </div>
 

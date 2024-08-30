@@ -29,13 +29,15 @@ function App() {
 
         <Services />
         <div className=" h-[30px]"></div>
-        <div className=" py-8">
-          <WhatotherSay />
-        </div>
 
         <div>
           <Cta />
         </div>
+        <div className=" py-8">
+          <WhatotherSay />
+        </div>
+
+     
 
         <div className="">
           <Footer />

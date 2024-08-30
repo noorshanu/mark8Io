@@ -146,22 +146,10 @@ body {
   -webkit-text-fill-color: transparent;
 }
 .btn-main {
-  background: linear-gradient(
-    88deg,
-    #6e5012 -11.16%,
-    #42149fc2 46.95%,
-    #42149f 94.89%
-  );
+  background: linear-gradient(380deg, #005dff 100%, rgba(255,255,255,1) 0%)
 }
 
-.btn-main:hover {
-  background: linear-gradient(
-    88deg,
-    #42149f -11.16%,
-    #42149f66 46.95%,
-    #6e5012 94.89%
-  );
-}
+
 
 .img-hov:hover {
   animation: rotate 1s linear;
@@ -323,13 +311,13 @@ body {
 }
 
 .bg-green-box::after {
-  background: linear-gradient(71deg, #0d1212, #dd6f2b, #0d1212);
+  background: linear-gradient(71deg, #0d1212, #005eff42, #0d1212);
 }
 
 .swiper-pagination-bullet {
   height: 18px;
   width: 18px;
-  background: #dd6f2b;
+  background: #005effc0;
   border: 1px solid #ffffff;
   border-radius: 100px;
 }

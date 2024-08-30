@@ -7,11 +7,11 @@ function BelowSec() {
 
       <div className=" my-6">
         <p className=" text-center font-manbold text-white text-2xl sm:text-4xl py-2  ">
-        Our <span className=" text-prime">Crypto Marketing</span> Agency Attracts Over 
+        Our <span className=" txt-grad font-bold">Crypto Marketing</span> Agency Attracts Over 
         </p>
 
         <p className=" text-center font-manbold text-white text-2xl sm:text-4xl  py-1 ">
-        <span className=" text-prime">100,000  </span> New Token Holders Per Month for 
+        <span className=" txt-grad font-bold">100,000  </span> New Token Holders Per Month for 
         </p>
 
         <p className=" text-center font-manbold text-white text-2xl sm:text-4xl py-1  ">

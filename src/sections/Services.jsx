@@ -164,7 +164,7 @@ function Services() {
 
               <li>Post-Listing Optimization</li>
             </ul>
-            <div className="flex justify-center items-center py-3">
+            <div className="flex justify-center items-center py-9">
               <a
                 href="/"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
@@ -196,7 +196,7 @@ function Services() {
               Performance Tracking
               </li>
             </ul>
-            <div className="flex justify-center items-center py-3">
+            <div className="flex justify-center items-center py-6">
               <a
                 href="/"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"

@@ -8,7 +8,7 @@ function Cta() {
         <div className=' flex flex-col justify-center gap-2 items-center'>
 
                 <h1 className=' text-3xl sm:text-5xl font-manbold font-bold text-center py-1'>
-                <span className=' text-prime '>Tell us your marketing challenge</span>, and 
+                <span className=' txt-grad '>Tell us your marketing challenge</span>, and 
                 we'll  
                 </h1>
 
@@ -22,7 +22,7 @@ function Cta() {
 
 
 
-                <a href="/" className='border-prime border-2  px-4 py-1  rounded-2xl text-xl font-manbold mt-4'>
+                <a href="/" className='btn-main  px-4 py-1  rounded-2xl text-xl font-manbold mt-4'>
             Contact Us
             </a>
 
