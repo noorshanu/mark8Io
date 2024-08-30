@@ -25,20 +25,20 @@ function Navbar() {
             href="/"
             className="text-white font-bold text-lg px-3 py-2 font-archo"
           >
-            About Us
+            Home
           </a>
           <a href="#about" className="text-white font-bold text-lg px-3 py-2">
-            Product
+           About us
           </a>
           <a href="#col" className="text-white font-bold text-lg px-3 py-2">
-            Stake
+            Services
           </a>
 
           <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
             FAQ
           </a>
           <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
-            How to buy
+            Conatct us
           </a>
         </div>
 
