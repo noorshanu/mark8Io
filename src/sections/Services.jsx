@@ -24,7 +24,11 @@ function Services() {
         </div>
 
         <div className=" mt-4 justify-center gap-6 items-center grid grid-cols-1 sm:grid-cols-3">
-          <div className=" nft border-[#757575] border py-4 px-6 rounded-xl">
+          <div className=" nft border-[#757575] border py-4 px-6 rounded-xl"
+           data-aos="fade-right"
+           data-aos-offset="500"
+           data-aos-duration="1000"
+           data-aos-easing="ease-in-sine">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
               Social Media Marketing
@@ -54,7 +58,10 @@ function Services() {
             </div>
           </div>
 
-          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
+          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl"  data-aos="fade-down"
+            data-aos-offset="500"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-sine">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-inter font-bold  text-prime pb-2">
               Tier 1 & 2 Exchange Listing
@@ -83,7 +90,10 @@ function Services() {
             </div>
           </div>
 
-          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
+          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl"  data-aos="fade-left"
+            data-aos-offset="500"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-sine">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
               Public Relations (PR)
@@ -113,27 +123,27 @@ function Services() {
             </div>
           </div>
 
-          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
+          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl"  data-aos="fade-right"
+            data-aos-offset="500"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-sine">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
-            Community Management
+              Community Management
             </h2>
 
             <p className=" text-start pb-1">
-            A vibrant and engaged community is the backbone of any successful web3 project. Our community management services include:
+              A vibrant and engaged community is the backbone of any successful
+              web3 project. Our community management services include:
             </p>
 
             <ul className=" list-disc ml-4 ">
               <li>Community Building</li>
 
               <li>Engagement Strategies</li>
-              <li>
-              Moderation
-              </li>
+              <li>Moderation</li>
 
-              <li>
-              Feedback Management
-              </li>
+              <li>Feedback Management</li>
             </ul>
 
             <div className="flex justify-center items-center py-3">
@@ -146,21 +156,23 @@ function Services() {
             </div>
           </div>
 
-          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
+          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl"  data-aos="fade-up"
+            data-aos-offset="500"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-sine">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
-            CMG & CG Listing
+              CMG & CG Listing
             </h2>
 
             <p className=" text-start pb-1">
-            Visibility on major crypto listing platforms like CoinMarketCap (CMC) and CoinGecko (CG) is crucial. Our services include:
+              Visibility on major crypto listing platforms like CoinMarketCap
+              (CMC) and CoinGecko (CG) is crucial. Our services include:
             </p>
 
             <ul className=" list-disc ml-4 ">
               <li>Listing Preparation</li>
-              <li>
-              Application Process
-              </li>
+              <li>Application Process</li>
 
               <li>Post-Listing Optimization</li>
             </ul>
@@ -174,27 +186,27 @@ function Services() {
             </div>
           </div>
 
-          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl">
+          <div className="  nft border-[#757575] border py-4 px-6 rounded-xl"  data-aos="fade-left"
+            data-aos-offset="500"
+            data-aos-duration="1000"
+            data-aos-easing="ease-in-sine">
             <img src="assets/asset 46.webp" alt="" className=" mx-auto" />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
-            KOL & Influencer Marketing
+              KOL & Influencer Marketing
             </h2>
 
             <p className=" text-start pb-1">
-            Leverage the power of key opinion leaders (KOLs) and influencers to boost your brand’s reach. Our services include::
+              Leverage the power of key opinion leaders (KOLs) and influencers
+              to boost your brand’s reach. Our services include::
             </p>
 
             <ul className=" list-disc ml-4 ">
               <li>Influencer Identification</li>
 
               <li>Campaign Development</li>
-              <li>
-              Partnership Management
-              </li>
+              <li>Partnership Management</li>
 
-              <li>
-              Performance Tracking
-              </li>
+              <li>Performance Tracking</li>
             </ul>
             <div className="flex justify-center items-center py-6">
               <a
