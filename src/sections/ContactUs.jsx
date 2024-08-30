@@ -1,4 +1,4 @@
-import React from "react";
+import { IoCheckmarkSharp } from "react-icons/io5";
 
 function ContactUs() {
   return (
@@ -11,19 +11,23 @@ function ContactUs() {
             <p className=" py-3 text-base">Book a demo and discovery call to get a look at:</p>
 
             <div>
-              <p className=" py-2">
+              <p className=" py-2 flex items-center gap-2">
+                <IoCheckmarkSharp className=" text-prime text-xl"/>
               How NinjaPromo works
               </p>
 
-              <p className=" py-2">
+              <p className=" py-2 flex items-center gap-2">
+                <IoCheckmarkSharp className=" text-prime text-xl"/>
               How you can do marketing at scale better, faster and cheaper
               </p>
 
-              <p className=" py-2">
+              <p className=" py-2 flex items-center gap-2">
+              <IoCheckmarkSharp className=" text-prime text-xl"/>
               How we’re different from agencies, freelancers and in-house marketing teams (hint: we’re 15x faster than hiring!)
               </p>
 
-              <p className=" py-2">
+              <p className=" py-2 flex items-center gap-2">
+              <IoCheckmarkSharp className=" text-prime text-xl"/>
               The most suitable subscription plan for your needs
               </p>
             </div>
