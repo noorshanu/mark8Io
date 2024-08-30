@@ -4,11 +4,29 @@ function ContactUs() {
   return (
     <section className=" w-full" id="contactus">
       <div className=" container-wrapper">
-        <div className=" flex justify-between ">
-          <div className=" w-full sm:w-1/2">
-            <h1>Ready to take your marketing to the next level?</h1>
+        <div className=" flex justify-between  ">
+          <div className=" w-full sm:w-1/2 mt-12">
+            <h1 className=" font-inter font-bold text-4xl mb-4">Ready to take your marketing to the next level?</h1>
 
-            <p>Book a demo and discovery call to get a look at:</p>
+            <p className=" py-3 text-base">Book a demo and discovery call to get a look at:</p>
+
+            <div>
+              <p className=" py-2">
+              How NinjaPromo works
+              </p>
+
+              <p className=" py-2">
+              How you can do marketing at scale better, faster and cheaper
+              </p>
+
+              <p className=" py-2">
+              How we’re different from agencies, freelancers and in-house marketing teams (hint: we’re 15x faster than hiring!)
+              </p>
+
+              <p className=" py-2">
+              The most suitable subscription plan for your needs
+              </p>
+            </div>
           </div>
 
           <div>
@@ -19,7 +37,7 @@ function ContactUs() {
                   <div className="mb-4">
                     <label
                       htmlFor="firstName"
-                      className="block text-sm font-medium"
+                      className="block text-sm font-medium text-[#fff]"
                     >
                       First Name*
                     </label>
@@ -33,7 +51,7 @@ function ContactUs() {
                   <div className="mb-4">
                     <label
                       htmlFor="lastName"
-                      className="block text-sm font-medium"
+                      className="block text-sm font-medium text-[#fff]"
                     >
                       Last Name
                     </label>
@@ -46,7 +64,7 @@ function ContactUs() {
                   <div className="mb-4">
                     <label
                       htmlFor="workEmail"
-                      className="block text-sm font-medium"
+                      className="block text-sm font-medium text-[#fff]"
                     >
                       Work Email*
                     </label>
@@ -60,7 +78,7 @@ function ContactUs() {
                   <div className="mb-4">
                     <label
                       htmlFor="budget"
-                      className="block text-sm font-medium"
+                      className="block text-sm font-medium text-[#fff]"
                     >
                       What Is Your Monthly Budget?*
                     </label>
@@ -78,7 +96,7 @@ function ContactUs() {
                   <div className="mb-4">
                     <label
                       htmlFor="location"
-                      className="block text-sm font-medium"
+                      className="block text-sm font-medium text-[#fff]"
                     >
                       Location*
                     </label>
@@ -108,11 +126,11 @@ function ContactUs() {
                   </div>
                   <button
                     type="submit"
-                    className="w-full py-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white font-bold rounded-md"
+                    className="w-full py-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white font-bold rounded-md text-[#fff]"
                   >
                     Book a demo
                   </button>
-                  <p className="text-xs text-center mt-4">
+                  <p className="text-xs text-center mt-4 text-[#fff]">
                     By clicking next, you agree to receive communications from
                     NinjaPromo in accordance with our Privacy Policy.
                   </p>
