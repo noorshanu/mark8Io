@@ -8,7 +8,12 @@ function Navbar() {
 
   return (
     <nav className="  py-2  w-full z-40 absolute">
-      <div className=" container-wrapper mx-auto  flex justify-between items-center    pb-1 ">
+      <div className=" container-wrapper mx-auto  flex justify-between items-center    pb-1 " 
+      
+      data-aos="fade-down"
+      data-aos-offset="500"
+      data-aos-duration="1000"
+      data-aos-easing="ease-in-sine">
         {/* Logo */}
         <div className="flex items-center flex-shrink-0 mr-6">
           <a

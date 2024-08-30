@@ -28,7 +28,10 @@ function WhatotherSay() {
           </p>
         </div>
 
-        <div id="teams">
+        <div id="teams"    data-aos="fade-up"
+    data-aos-offset="500"
+    data-aos-duration="1000"
+    data-aos-easing="ease-in-sine">
           <Teams />
         </div>
         {/* <div className=" flex justify-between items-center flex-col sm:flex-row my-4">
