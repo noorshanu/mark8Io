@@ -3,10 +3,11 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      manreg: ["Manrope-Regular"],
-      manmed: ["Manrope-Medium"],
-      manbold: ["Manrope-Bold"],
-      mansemibold: ["Manrope-SemiBold"],
+      manreg: ["'Inter', sans-serif"],
+      manmed: ["'Inter', sans-serif"],
+      manbold: ["'Inter', sans-serif"],
+      mansemibold: ["'Inter', sans-serif"],
+      inter:["'Inter', sans-serif"]
     },
     colors: {
       prime: "#005dff",
