@@ -4,39 +4,59 @@ function ContactUs() {
   return (
     <section className=" w-full" id="contactus">
       <div className=" container-wrapper">
-        <div className=" flex justify-between  ">
-          <div className=" w-full sm:w-1/2 mt-12">
-            <h1 className=" font-inter font-bold text-4xl mb-4">Ready to take your marketing to the next level?</h1>
+        <div className=" flex justify-between  items-center ">
+          <div className=" w-full sm:w-1/2 ">
+            <h1 className=" font-inter font-bold text-4xl mb-4">
+              Ready to take your marketing to the next level?
+            </h1>
 
-            <p className=" py-3 text-base">Book a demo and discovery call to get a look at:</p>
+            <p className=" py-3 text-base">
+              Book a demo and discovery call to get a look at:
+            </p>
 
             <div>
               <p className=" py-2 flex items-center gap-2">
-                <IoCheckmarkSharp className=" text-prime text-xl"/>
-              How NinjaPromo works
+                <IoCheckmarkSharp className=" text-prime text-xl" />
+                How NinjaPromo works
               </p>
 
               <p className=" py-2 flex items-center gap-2">
-                <IoCheckmarkSharp className=" text-prime text-xl"/>
-              How you can do marketing at scale better, faster and cheaper
+                <IoCheckmarkSharp className=" text-prime text-xl" />
+                How you can do marketing at scale better, faster and cheaper
               </p>
 
               <p className=" py-2 flex items-center gap-2">
-              <IoCheckmarkSharp className=" text-prime text-xl"/>
-              How we’re different from agencies, freelancers and in-house marketing teams (hint: we’re 15x faster than hiring!)
+                <IoCheckmarkSharp className=" text-prime text-xl" />
+                How we’re different from agencies, freelancers and in-house
+                marketing teams (hint: we’re 15x faster than hiring!)
               </p>
 
               <p className=" py-2 flex items-center gap-2">
-              <IoCheckmarkSharp className=" text-prime text-xl"/>
-              The most suitable subscription plan for your needs
+                <IoCheckmarkSharp className=" text-prime text-xl" />
+                The most suitable subscription plan for your needs
               </p>
+            </div>
+
+            <div className=" grid grid-cols-2 sm:grid-cols-3 items-center gap-4 mt-4">
+
+              <img src="images/logi.svg" alt="" className="w-[120px] h-[30px]" />
+              <img src="images/bitcoin.png" alt="" className="w-[120px] h-[30px]" />
+              <img src="images/strip.svg" alt="" className="w-[120px] h-[30px]" />
+              <img src="images/samsung.png" alt=""  className="w-[120px] h-[30px]"/>
+              <img src="images/hub.svg" alt=""  className="w-[120px] h-[30px]"/>
+              <img src="images/burger.svg" alt="" className="w-[120px] h-[30px]" />
+
+
+
             </div>
           </div>
 
           <div>
             <div className=" bg-[#1a1a1a] border border-[#757575] rounded-2xl  p-4 shadow-lg ">
               <div className="max-w-md mx-auto  ">
-                <h2 className="text-2xl font-bold mb-2 text-center">BOOK A CALL WITH US</h2>
+                <h2 className="text-2xl font-bold mb-2 text-center">
+                  BOOK A CALL WITH US
+                </h2>
                 <form className=" text-[#000]">
                   <div className="mb-4">
                     <label
