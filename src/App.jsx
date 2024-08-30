@@ -2,6 +2,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import About from "./sections/About";
 import BelowSec from "./sections/BelowSec";
+import ContactUs from "./sections/ContactUs";
 import Cta from "./sections/Cta";
 import Hero from "./sections/Hero";
 import Hero2 from "./sections/Hero2";
@@ -36,6 +37,11 @@ function App() {
         <div className=" py-8">
           <WhatotherSay />
         </div>
+
+        <div className=" py-8">
+        <ContactUs/>
+        </div>
+
 
      
 
