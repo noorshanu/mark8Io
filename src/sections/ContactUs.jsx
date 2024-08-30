@@ -12,9 +12,9 @@ function ContactUs() {
           </div>
 
           <div>
-            <div className=" bg-[#000] rounded-2xl border p-4 shadow-lg ">
+            <div className=" bg-[#1a1a1a] border border-[#757575] rounded-2xl  p-4 shadow-lg ">
               <div className="max-w-md mx-auto  ">
-                <h2 className="text-2xl font-bold mb-6">BOOK A CALL WITH US</h2>
+                <h2 className="text-2xl font-bold mb-2 text-center">BOOK A CALL WITH US</h2>
                 <form className=" text-[#000]">
                   <div className="mb-4">
                     <label
@@ -96,7 +96,7 @@ function ContactUs() {
                   <div className="mb-4">
                     <label
                       htmlFor="tasks"
-                      className="block text-sm font-medium"
+                      className="block text-sm font-medium text-[#fff]"
                     >
                       What tasks would you like to solve?
                     </label>
