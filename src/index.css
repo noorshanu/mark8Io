@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -35,7 +35,7 @@ body {
   font-family: "Inter", sans-serif;
   color: #fff;
 }
-.inter{
+.inter {
   font-family: "Inter", sans-serif;
 }
 .css-1vx3a4p {
@@ -140,16 +140,19 @@ body {
   animation: textShine 5s ease-in-out infinite alternate;
 }
 
-.txt-grad{
-  background: -webkit-linear-gradient(180deg, #005dff 0%, rgba(255,255,255,1) 100%);
+.txt-grad {
+  background: -webkit-linear-gradient(
+    180deg,
+    #005dff 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
 .btn-main {
-  background: linear-gradient(380deg, #005dff 100%, rgba(255,255,255,1) 0%)
+  background: linear-gradient(380deg, #005dff 100%, rgba(255, 255, 255, 1) 0%);
 }
-
-
 
 .img-hov:hover {
   animation: rotate 1s linear;
@@ -190,6 +193,11 @@ body {
   overflow: hidden;
   transition: 0.5s all;
 }
+
+.no-transition {
+  transition: none !important;
+}
+
 .nft hr {
   width: 100%;
   border: none;
@@ -282,7 +290,7 @@ body {
   border: 1px solid #ffffff44;
   box-shadow: 0 7px 50px 10px #000000aa;
   transform: scale(1.015);
-  filter: brightness(1.3);
+  filter: brightness(1.5);
 }
 .nft:hover ::before {
   filter: brightness(0.5);
