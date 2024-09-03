@@ -37,18 +37,18 @@ function ContactUs() {
               </p>
             </div>
 
-            {/* <div className=" grid grid-cols-2 sm:grid-cols-3 items-center gap-4 mt-4">
+            <div className=" grid grid-cols-2 sm:grid-cols-3 items-center gap-4 mt-4 h-0 sm:h-16">
 
-              <img src="images/logi.svg" alt="" className="w-[120px] h-[30px]" />
+              {/* <img src="images/logi.svg" alt="" className="w-[120px] h-[30px]" />
               <img src="images/bitcoin.png" alt="" className="w-[120px] h-[30px]" />
               <img src="images/strip.svg" alt="" className="w-[120px] h-[30px]" />
               <img src="images/samsung.png" alt=""  className="w-[120px] h-[30px]"/>
               <img src="images/hub.svg" alt=""  className="w-[120px] h-[30px]"/>
-              <img src="images/burger.svg" alt="" className="w-[120px] h-[30px]" />
+              <img src="images/burger.svg" alt="" className="w-[120px] h-[30px]" /> */}
 
 
 
-            </div> */}
+            </div>
           </div>
 
           <div>

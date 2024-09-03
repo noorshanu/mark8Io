@@ -40,10 +40,10 @@ function Navbar() {
           </a>
 
           <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
-            FAQ
+           Team
           </a>
           <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
-            Conatct us
+            Contact us
           </a>
         </div>
 
@@ -110,13 +110,13 @@ function Navbar() {
               href="#about"
               className="text-white font-bold text-lg block px-3 py-2"
             >
-              About
+              About us
             </a>
             <a
               href="#col"
               className="text-white font-bold text-lg block px-3 py-2"
             >
-              Features
+           Services
             </a>
 
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">

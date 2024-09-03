@@ -1,6 +1,6 @@
 import gsap from "gsap";
 import React, { useEffect, useRef } from "react";
-import { FaFacebook, FaTwitter } from "react-icons/fa";
+import { FaFacebook, FaTelegramPlane, FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
 
 const Hero2 = () => {
@@ -148,7 +148,7 @@ const Hero2 = () => {
             href="#"
             className="hover:text-prime transition-all duration-200"
           >
-            <FaFacebook />
+          <FaTelegramPlane/>
           </a>
         </div>
       </div>
