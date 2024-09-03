@@ -4,7 +4,7 @@ function ContactUs() {
   return (
     <section className=" w-full" id="contactus">
       <div className=" container-wrapper">
-        <div className=" flex justify-between  items-center ">
+        <div className=" flex justify-between flex-col sm:flex-row  items-center ">
           <div className=" w-full sm:w-1/2 ">
             <h1 className=" font-inter font-bold text-4xl mb-4">
               Ready to take your marketing to the next level?
@@ -17,7 +17,7 @@ function ContactUs() {
             <div>
               <p className=" py-2 flex items-center gap-2">
                 <IoCheckmarkSharp className=" text-prime text-xl" />
-                How NinjaPromo works
+                How Mark8.io works
               </p>
 
               <p className=" py-2 flex items-center gap-2">
@@ -37,7 +37,7 @@ function ContactUs() {
               </p>
             </div>
 
-            <div className=" grid grid-cols-2 sm:grid-cols-3 items-center gap-4 mt-4">
+            {/* <div className=" grid grid-cols-2 sm:grid-cols-3 items-center gap-4 mt-4">
 
               <img src="images/logi.svg" alt="" className="w-[120px] h-[30px]" />
               <img src="images/bitcoin.png" alt="" className="w-[120px] h-[30px]" />
@@ -48,7 +48,7 @@ function ContactUs() {
 
 
 
-            </div>
+            </div> */}
           </div>
 
           <div>
