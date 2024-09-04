@@ -13,7 +13,7 @@ function OurPartners() {
           <div className="  nft p-4 border border-[#bebebe] text-center h-full">
             <img src="images/sara.png" alt="" />
 
-            <p>Sara</p>
+            <p>Sarah </p>
 
             <p className=" text-xs">Business Development Manager</p>
           </div>
