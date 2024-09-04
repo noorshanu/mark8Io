@@ -7,6 +7,7 @@ import ContactUs from "./sections/ContactUs";
 import Cta from "./sections/Cta";
 import Hero from "./sections/Hero";
 import Hero2 from "./sections/Hero2";
+import OurPartners from "./sections/OurPartners";
 import Services from "./sections/Services";
 import Teams from "./sections/Teams";
 import WhatotherSay from "./sections/WhatotherSays";
@@ -43,6 +44,9 @@ function App() {
         <ContactUs/>
         </div>
 
+        <div className=" py-8">
+        <OurPartners/>
+        </div>
 
      
 <CoinMarquee/>

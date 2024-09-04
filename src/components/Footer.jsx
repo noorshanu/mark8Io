@@ -14,14 +14,14 @@ function Footer() {
           <div className=" flex items-center justify-center flex-col sm:flex-row gap-4">
             <a href="/" className=" text-sm font-thin"> Privacy & Policy</a>
 
-            <a href="/" className=" text-sm font-thin">Terms & Conditions</a>
+            <a href="/" className=" text-sm font-thin" >Terms & Conditions</a>
           </div>
 
           <div>
             <div className="flex gap-7 text-[42px]">
               <a
                 target="_blank"
-                href="#"
+                href="https://www.instagram.com/mark8.io/"
                 className="hover:text-prime transition-all duration-200"
               >
                 <FaInstagram />
@@ -29,7 +29,7 @@ function Footer() {
 
               <a
                 target="_blank"
-                href="#"
+                href="https://twitter.com/Mark_8_"
                 className="hover:text-prime transition-all duration-200"
               >
                 <FaTwitter />
@@ -37,7 +37,7 @@ function Footer() {
 
               <a
                 target="_blank"
-                href="#"
+                href="https://t.me/Mark8_Announcements"
                 className="hover:text-prime transition-all duration-200"
               >
                 <BsTelegram />

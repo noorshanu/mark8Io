@@ -129,7 +129,7 @@ const Hero2 = () => {
         <div className="flex gap-7 text-[42px]">
           <a
             target="_blank"
-            href="#"
+            href="https://www.instagram.com/mark8.io/"
             className="hover:text-prime transition-all duration-200"
           >
             <FaInstagram />
@@ -137,7 +137,7 @@ const Hero2 = () => {
 
           <a
             target="_blank"
-            href="#"
+            href="https://twitter.com/Mark_8_"
             className="hover:text-prime transition-all duration-200"
           >
             <FaTwitter />
@@ -145,7 +145,7 @@ const Hero2 = () => {
 
           <a
             target="_blank"
-            href="#"
+            href="https://t.me/Mark8_Announcements" 
             className="hover:text-prime transition-all duration-200"
           >
           <FaTelegramPlane/>
