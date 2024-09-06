@@ -8,6 +8,7 @@ import Cta from "./sections/Cta";
 import Hero from "./sections/Hero";
 import Hero2 from "./sections/Hero2";
 import OurPartners from "./sections/OurPartners";
+import Partners from "./sections/Partners";
 import Services from "./sections/Services";
 import Teams from "./sections/Teams";
 import WhatotherSay from "./sections/WhatotherSays";
@@ -21,9 +22,14 @@ function App() {
 
         {/* <Hero /> */}
         <Hero2 />
-       
+
         <div className=" mb-4">
           <BelowSec />
+        </div>
+        <div className=" mb-4">
+
+          <Partners/>
+
         </div>
 
         <About />
@@ -41,15 +47,14 @@ function App() {
         </div>
 
         <div className=" py-8">
-        <ContactUs/>
+          <ContactUs />
         </div>
 
         <div className=" py-8">
-        <OurPartners/>
+          <OurPartners />
         </div>
 
-     
-<CoinMarquee/>
+        <CoinMarquee />
         <div className="">
           <Footer />
         </div>
