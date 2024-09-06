@@ -32,14 +32,15 @@ function Services() {
 
       tl.fromTo(
         [text1.current, text2.current, text3.current],
-        { opacity: 0, y: 40 },
+        { opacity: 0, y: 80 },
         { opacity: 1, y: 0, duration: 0.5, stagger: 0.3 }
       );
 
       tl.fromTo(
         ".service-card",
         { opacity: 0, y: 200 },
-        { opacity: 1, y: 0, duration: 0.7, stagger: 0.2 }
+        { opacity: 1, y: 0, duration: 0.5, stagger: 0.15 },
+        "-=0.3"
       );
     },
     { dependencies: [], revertOnUpdate: true }
@@ -72,7 +73,11 @@ function Services() {
 
         <div className=" mt-4 justify-center gap-6 items-center grid grid-cols-1 sm:grid-cols-3">
           <div className="will-change-transform service-card border-[#757575] border py-4 px-6 rounded-xl nft no-transition">
-            <img src="images/icons/soc.png" alt="" className=" mx-auto rounded-xl" />
+            <img
+              src="images/icons/soc.png"
+              alt=""
+              className=" mx-auto rounded-xl"
+            />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
               Social Media Marketing
             </h2>
@@ -102,7 +107,11 @@ function Services() {
           </div>
 
           <div className="will-change-transform service-card border-[#757575] border py-4 px-6 rounded-xl nft no-transition">
-            <img src="images/icons/tier1.png" alt="" className=" mx-auto rounded-xl" />
+            <img
+              src="images/icons/tier1.png"
+              alt=""
+              className=" mx-auto rounded-xl"
+            />
             <h2 className=" text-center text-2xl font-inter font-bold  text-prime pb-2">
               Tier 1 & 2 Exchange Listing
             </h2>
@@ -131,7 +140,11 @@ function Services() {
           </div>
 
           <div className="will-change-transform service-card border-[#757575] border py-4 px-6 rounded-xl nft no-transition">
-            <img src="images/icons/public.png" alt="" className=" mx-auto rounded-xl" />
+            <img
+              src="images/icons/public.png"
+              alt=""
+              className=" mx-auto rounded-xl"
+            />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
               Public Relations (PR)
             </h2>
@@ -161,7 +174,11 @@ function Services() {
           </div>
 
           <div className="will-change-transform service-card border-[#757575] border py-4 px-6 rounded-xl nft no-transition">
-            <img src="images/icons/com.png" alt="" className=" mx-auto rounded-xl" />
+            <img
+              src="images/icons/com.png"
+              alt=""
+              className=" mx-auto rounded-xl"
+            />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
               Community Management
             </h2>
@@ -191,7 +208,11 @@ function Services() {
           </div>
 
           <div className="will-change-transform service-card border-[#757575] border py-4 px-6 rounded-xl nft no-transition">
-            <img src="images/icons/cmc.png" alt="" className=" mx-auto rounded-xl" />
+            <img
+              src="images/icons/cmc.png"
+              alt=""
+              className=" mx-auto rounded-xl"
+            />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
               CMG & CG Listing
             </h2>
@@ -218,7 +239,11 @@ function Services() {
           </div>
 
           <div className="will-change-transform service-card border-[#757575] border py-4 px-6 rounded-xl nft no-transition">
-            <img src="images/icons/influ.png" alt="" className=" mx-auto rounded-xl" />
+            <img
+              src="images/icons/influ.png"
+              alt=""
+              className=" mx-auto rounded-xl"
+            />
             <h2 className=" text-center text-2xl font-manbold font-bold text-prime pb-2">
               KOL & Influencer Marketing
             </h2>
