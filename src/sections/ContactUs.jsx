@@ -2,7 +2,7 @@ import { IoCheckmarkSharp } from "react-icons/io5";
 
 function ContactUs() {
   return (
-    <section className=" w-full" id="contactus">
+    <section className=" w-full" id="contact">
       <div className=" container-wrapper">
         <div className=" flex justify-between flex-col sm:flex-row  items-center ">
           <div className=" w-full sm:w-1/2 ">

@@ -44,7 +44,7 @@ function OurPartners() {
   );
 
   return (
-    <section>
+    <section id="team">
       <div ref={wrapper} className=" container-wrapper">
         <div className=" py-3">
           <h1

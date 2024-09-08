@@ -28,21 +28,19 @@ function Navbar() {
         <div className="hidden md:flex flex-grow justify-center">
           <a
             href="/"
-            className="text-white font-bold text-lg px-3 py-2 font-archo"
+            className="text-white font-bold text-lg px-3 py-2 font-archo cursor-pointer"
           >
             Home
           </a>
-          <a href="#about" className="text-white font-bold text-lg px-3 py-2">
+          <a href="#about" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
            About us
           </a>
-          <a href="#col" className="text-white font-bold text-lg px-3 py-2">
+          <a href="#services" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
             Services
           </a>
 
-          <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
-           Team
-          </a>
-          <a href="#contact" className="text-white font-bold text-lg px-3 py-2">
+         
+          <a href="#contact" className="text-white font-bold text-lg px-3 py-2 cursor-pointer">
             Contact us
           </a>
         </div>
@@ -113,7 +111,7 @@ function Navbar() {
               About us
             </a>
             <a
-              href="#col"
+              href="#services"
               className="text-white font-bold text-lg block px-3 py-2"
             >
            Services

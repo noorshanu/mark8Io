@@ -120,10 +120,7 @@ const Hero2 = () => {
 
       <div className="flex flex-col items-center text-center max-w-[1280px] px-[4vw] gap-8 mb-36 z-10">
         <p className="text-lg sm:text-xl font-manreg leading-[1.6]">
-          We revolutionize your marketing strategy with first-class customer
-          experience and cutting-edge tools. Our expertise in the web3 community
-          ensures your product stands out and captures the attention it
-          deserves.
+        Mark8 elevate your marketing strategy through exceptional customer experiences and advanced tools. With our deep expertise in the Web3 space, we ensure your product not only stands out but also captures the attention it merits.
         </p>
 
         <div className="flex gap-7 text-[42px]">
