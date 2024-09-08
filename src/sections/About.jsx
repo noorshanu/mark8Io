@@ -111,10 +111,7 @@ function About() {
             </h2>
 
             <p ref={para1} className="text-lg">
-              At Mark8, we revolutionize your marketing strategy with
-              first-class customer experience and cutting-edge tools. Our
-              expertise in the web3 community ensures your product stands out
-              and captures the attention it deserves.
+            Mark8 elevate your marketing strategy through exceptional customer experiences and advanced tools. With our deep expertise in the Web3 space, we ensure your product not only stands out but also captures the attention it merits.
             </p>
 
             <p ref={para2} className=" text-lg my-8">

@@ -47,9 +47,9 @@ function Cta() {
           </h1>
 
           <p className=" py-6 text-center max-w-3xl">
-            Select Coinband as your WEB3 digital marketing partner to chart a
+            Select Mark8.io as your WEB3 digital marketing partner to chart a
             path for your company's growth in the blockchain, cryptocurrency,
-            and NFT sectors. Click the "Get a proposal" button to get started.
+            and NFT sectors. Click the "Contact Us" button to get started.
           </p>
 
           <a

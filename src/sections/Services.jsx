@@ -63,11 +63,7 @@ function Services() {
           </h1>
 
           <p ref={text3} className=" text-center py-2">
-            Our premier cryptocurrency marketing firm has assisted a wide array
-            of companies and groups in reaching their promotional goals. With
-            extensive knowledge in advancing diverse Web 3.0 initiatives, we
-            possess the understanding and proficiency to guide you in realizing
-            your full potential
+          Our leading cryptocurrency marketing firm has helped numerous companies and organizations achieve their promotional objectives. With extensive expertise in advancing Web 3.0 initiatives, we have the insight and skills to help you realize your full potential.
           </p>
         </div>
 

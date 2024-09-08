@@ -135,7 +135,7 @@ function ContactUs() {
                       htmlFor="tasks"
                       className="block text-sm font-medium text-[#fff]"
                     >
-                      What tasks would you like to solve?
+                      What Tasks Would You Like To Solve?
                     </label>
                     <textarea
                       id="tasks"

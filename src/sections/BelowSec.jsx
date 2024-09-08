@@ -11,7 +11,7 @@ function BelowSec() {
         </p>
 
         <p className=" text-center font-manbold text-white text-2xl sm:text-4xl  py-1 ">
-        <span className=" txt-grad font-bold">100's  </span> New Token Holders Per Month for 
+        <span className=" txt-grad font-bold">100's  </span> of  New Token Holders Per Month for 
         </p>
 
         <p className=" text-center font-manbold text-white text-2xl sm:text-4xl py-1  ">
