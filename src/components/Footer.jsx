@@ -43,13 +43,13 @@ function Footer() {
                 <BsTelegram />
               </a>
 
-              <a
+              {/* <a
                 target="_blank"
                 href="#"
                 className="hover:text-prime transition-all duration-200"
               >
                 <FaFacebook />
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
