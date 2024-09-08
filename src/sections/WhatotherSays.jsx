@@ -48,10 +48,10 @@ function WhatotherSay() {
             {" "}
           </div>
 
-          <p className="text-xl text-center text-white max-w-4xl mx-auto mb-8">
+          {/* <p className="text-xl text-center text-white max-w-4xl mx-auto mb-8">
             we mention here what our Creators says . Here we will mention about
             #Feedback
-          </p>
+          </p> */}
         </div>
 
         <div id="teams">
