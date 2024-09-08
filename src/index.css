@@ -392,3 +392,11 @@ body {
     opacity: 1;
   }
 }
+
+@media (max-width:768px) {
+  .css-1vx3a4p{
+    width: 400px;
+    height: 400px;
+  }
+  
+}
