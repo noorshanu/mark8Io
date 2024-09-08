@@ -122,7 +122,7 @@ function About() {
               frontier.
             </p>
 
-            <a ref={button1} href="/" className="inline-block">
+            <a ref={button1} href="https://t.me/Mark8_Announcements" target="_blank" className="inline-block  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border " >
               {" "}
               Get Started
             </a>
