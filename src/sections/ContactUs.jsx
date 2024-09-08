@@ -12,7 +12,7 @@ function ContactUs() {
       <div className=" container-wrapper">
         <div className=" flex justify-between flex-col  items-center ">
           <div className=" w-full sm:w-1/2 ">
-            <h1 className=" font-inter font-bold text-4xl mb-4 text-center">
+            <h1 className=" font-inter font-bold text-2xl sm:text-4xl mb-4 text-center">
               Ready to take your marketing to the next level?
             </h1>
 

@@ -8,7 +8,7 @@ const heading = [
   },
   {
     text: "Business",
-    className: "txt-grad font-bold",
+    className: "txt-grad font-bold text-center",
   },
 ];
 
@@ -87,7 +87,7 @@ function About() {
           </div>
 
           <div className=" w-full sm:w-1/2">
-            <h2 className="text-4xl sm:text-6xl font-manbold pb-4 font-medium flex flex-wrap gap-x-4">
+            <h2 className="text-4xl sm:text-6xl font-manbold pb-4 font-medium flex flex-wrap gap-x-4 text-center">
               {heading.map((part) =>
                 part.text.split(" ").map((word, i) => (
                   <span key={i} className={`overflow-hidden`}>
@@ -98,7 +98,7 @@ function About() {
                           backgroundSize: `${arr.length * 100}%`,
                           backgroundPosition: `${j * 0.1 * 100}%`,
                         }}
-                        className={`about-heading-letter inline-block ${
+                        className={`about-heading-letter inline-block text-center ${
                           part.className
                         } ${letter.toLowerCase() === "y" ? "-mr-[5px]" : ""}`}
                       >
@@ -110,19 +110,22 @@ function About() {
               )}
             </h2>
 
-            <p ref={para1} className="text-lg">
+            <p ref={para1} className="text-lg text-center sm:text-start">
             Mark8 elevate your marketing strategy through exceptional customer experiences and advanced tools. With our deep expertise in the Web3 space, we ensure your product not only stands out but also captures the attention it merits.
             </p>
 
-            <p ref={para2} className=" text-lg my-8">
+            <p ref={para2} className=" text-lg my-8 text-center sm:text-start">
               Partner with us and watch your brand thrive in the digital
               frontier.
             </p>
 
+            <div className=" flex justify-center sm:justify-start items-center">
             <a ref={button1} href="https://t.me/Mark8_Announcements" target="_blank" className="inline-block  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border " >
               {" "}
               Get Started
             </a>
+
+            </div>
           </div>
         </div>
       </div>

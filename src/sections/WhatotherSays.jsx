@@ -38,7 +38,7 @@ function WhatotherSay() {
 
       <div className="container-wrapper">
         <div id="header" className=" my-3">
-          <h1 className="text-grad text-4xl font-work font-bold font-64 text-center">
+          <h1 className="text-grad text-2xl sm:text-4xl font-work font-bold font-64 text-center">
             What creator says about us
           </h1>
           <div
