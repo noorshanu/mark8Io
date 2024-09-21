@@ -87,7 +87,7 @@ function About() {
           </div>
 
           <div className=" w-full sm:w-1/2">
-            <h2 className="text-4xl sm:text-6xl font-manbold pb-4 font-medium flex flex-wrap gap-x-4 text-center">
+            <h2 className="text-4xl sm:text-6xl font-manbold pb-4 font-medium sm:flex flex-wrap gap-x-4 text-center hidden ">
               {heading.map((part) =>
                 part.text.split(" ").map((word, i) => (
                   <span key={i} className={`overflow-hidden`}>
@@ -109,7 +109,12 @@ function About() {
                 ))
               )}
             </h2>
-
+                <h2 className="text-4xl txt-grad sm:text-6xl font-manbold pb-4 font-medium  items-center gap-x-4 text-center block sm:hidden ">Unlock
+Revenue
+Growth
+for
+your
+  Business</h2>
             <p ref={para1} className="text-lg text-center sm:text-start">
             Mark8 elevate your marketing strategy through exceptional customer experiences and advanced tools. With our deep expertise in the Web3 space, we ensure your product not only stands out but also captures the attention it merits.
             </p>
