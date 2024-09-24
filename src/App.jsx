@@ -7,6 +7,7 @@ import ContactUs from "./sections/ContactUs";
 import Cta from "./sections/Cta";
 import Hero from "./sections/Hero";
 import Hero2 from "./sections/Hero2";
+import MobilePhone from "./sections/MobilePhone";
 import OurPartners from "./sections/OurPartners";
 import Partners from "./sections/Partners";
 import Services from "./sections/Services";
@@ -31,6 +32,7 @@ function App() {
           <Partners/>
 
         </div>
+        {/* <MobilePhone/> */}
 
         <About />
 

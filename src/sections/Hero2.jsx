@@ -85,11 +85,17 @@ const Hero2 = () => {
             ref={mobile}
             className="absolute z-10 w-full max-w-[220px] sm:max-w-[28vw] lg:max-w-[min(300px,20vw)] flex justify-center items-center isolate"
           >
-            <img
+            {/* <img
               draggable={false}
               src="/images/phone-screen.png"
               className="-z-10 absolute h-[97%] rounded-[15px]"
-            />
+            /> */}
+             <div className="video-container -z-10 absolute h-[100%] p-2 rounded-[70px] bg-[#000]">
+          <video muted autoPlay loop>
+            <source src="/images/mark.mov" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+        </div>
             <img
               draggable={false}
               width={800}
