@@ -91,7 +91,7 @@ const Hero2 = () => {
               className="-z-10 absolute h-[97%] rounded-[15px]"
             /> */}
              <div className="video-container -z-10 absolute h-[100%] p-2 rounded-[70px] bg-[#000]">
-          <video muted autoPlay loop>
+          <video muted autoPlay loop playsInline>
             <source src="/images/mark.mov" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
