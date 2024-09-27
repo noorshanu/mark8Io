@@ -53,7 +53,8 @@ function Cta() {
           </p>
 
           <a
-            href="/"
+          target="_blank"
+            href="https://t.me/Mark8_Io"
             className="btn-main  px-4 py-1  rounded-2xl text-xl font-manbold mt-4"
           >
             Contact Us

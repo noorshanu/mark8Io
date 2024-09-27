@@ -125,7 +125,7 @@ your
             </p>
 
             <div className=" flex justify-center sm:justify-start items-center">
-            <a ref={button1} href="https://t.me/Mark8_Announcements" target="_blank" className="inline-block  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border " >
+            <a ref={button1} href="https://t.me/Mark8_Io" target="_blank" className="inline-block  shadow-xl   py-2 px-4 font-archo text-center text-base rounded-3xl font-manbold font-bold   bg-[#005dff] hover:bg-[#0000] hover:border " >
               {" "}
               Get Started
             </a>

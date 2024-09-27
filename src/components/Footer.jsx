@@ -37,7 +37,7 @@ function Footer() {
 
               <a
                 target="_blank"
-                href="https://t.me/Mark8_Announcements"
+                href="https://t.me/Mark8_Io"
                 className="hover:text-prime transition-all duration-200"
               >
                 <BsTelegram />

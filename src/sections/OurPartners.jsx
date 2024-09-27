@@ -79,16 +79,16 @@ function OurPartners() {
           </div>
 
           <div className="partner-card nft p-4 border border-[#bebebe] text-center h-full no-transition">
-            <img src="images/noor2.png" alt="" />
-
+            
+            <img src="images/david2.png" alt="" />
             <p>Ronnie</p>
 
             <p>Founder</p>
           </div>
 
           <div className="partner-card nft p-4 border border-[#bebebe] text-center h-full no-transition">
-            <img src="images/david2.png" alt="" />
-
+    
+            <img src="images/noor2.png" alt="" />
             <p>David </p>
 
             <p> Partnership Manager</p>

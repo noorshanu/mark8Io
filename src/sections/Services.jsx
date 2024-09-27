@@ -94,7 +94,7 @@ function Services() {
 
             <div className="flex justify-center items-center py-3">
               <a
-                href="https://t.me/Mark8_Announcements" target="_blank"
+                href="https://t.me/Mark8_Io" target="_blank"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
               >
                 Know More <FaArrowTrendUp className=" underline" />
@@ -127,7 +127,7 @@ function Services() {
 
             <div className="flex justify-center items-center py-3">
               <a
-                href="https://t.me/Mark8_Announcements" target="_blank"
+                href="https://t.me/Mark8_Io" target="_blank"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
               >
                 Know More <FaArrowTrendUp className=" underline" />
@@ -161,7 +161,7 @@ function Services() {
 
             <div className="flex justify-center items-center  py-6">
               <a
-                href="https://t.me/Mark8_Announcements" target="_blank"
+                href="https://t.me/Mark8_Io" target="_blank"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
               >
                 Know More <FaArrowTrendUp className=" underline" />
@@ -195,7 +195,7 @@ function Services() {
 
             <div className="flex justify-center items-center py-3">
               <a
-                href="https://t.me/Mark8_Announcements" target="_blank"
+                href="https://t.me/Mark8_Io" target="_blank"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
               >
                 Know More <FaArrowTrendUp className=" underline" />
@@ -226,7 +226,7 @@ function Services() {
             </ul>
             <div className="flex justify-center items-center py-9">
               <a
-                href="https://t.me/Mark8_Announcements" target="_blank"
+                href="https://t.me/Mark8_Io" target="_blank"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
               >
                 Know More <FaArrowTrendUp className=" underline" />
@@ -259,7 +259,7 @@ function Services() {
             </ul>
             <div className="flex justify-center items-center py-6">
               <a
-                href="https://t.me/Mark8_Announcements" target="_blank"
+                href="https://t.me/Mark8_Io" target="_blank"
                 className="  rounded-3xl  py-1 px-4 text-center font-inter font-semibold mx-auto underline flex items-center gap-2"
               >
                 Know More <FaArrowTrendUp className=" underline" />
