@@ -28,9 +28,7 @@ function App() {
           <BelowSec />
         </div>
         <div className=" mb-4">
-
-          <Partners/>
-
+          <Partners />
         </div>
         {/* <MobilePhone/> */}
 

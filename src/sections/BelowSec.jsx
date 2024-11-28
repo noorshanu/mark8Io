@@ -32,9 +32,13 @@ function BelowSec() {
             <img src="images/strike.png" alt="" className=' mx-auto px-3' />
             <img src="images/thol.webp" alt="" className=' mx-auto  px-3 h-[30px]' />
 
-            <img src="https://plots.ethxy.com/images/logo.png" alt=""  className=' mx-auto h-[40px] px-3'/>
-            <img src="images/xrp.png" alt="" className=' mx-auto invert px-3  h-[40px]' />
-            <img src="images/play.svg" alt="" className=' mx-auto  px-3  h-[40px]' />
+            <img src="images/vikita.jpg" alt=""  className=' mx-auto h-[50px] px-3 rounded-full' />
+            <img src="images/blaz.jpg" alt="" className=' mx-auto invert px-3  h-[40px] rounded-full' />
+            <img src="images/eco.jpg" alt="" className=' mx-auto  px-3  h-[40px] rounded-full' />
+            <img src="images/dao.jpg" alt="" className=' mx-auto  px-3  h-[40px] rounded-full' />
+            <img src="images/act.jpg" alt="" className=' mx-auto  px-3  h-[40px] rounded-full' />
+
+
 
  
 
