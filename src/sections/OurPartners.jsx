@@ -66,9 +66,9 @@ function OurPartners() {
           <div className="partner-card nft p-4 border border-[#bebebe] text-center h-full no-transition ">
             <img src="images/david.png" alt="" />
 
-            <p>Ashish</p>
+            <p>Varun</p>
 
-            <p>Marketing manager</p>
+            <p>CMO</p>
           </div>
 
           <div className="partner-card nft p-4 border border-[#bebebe] text-center h-full no-transition">
