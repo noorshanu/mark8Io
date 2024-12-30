@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/effect-creative";
 
-import { Pagination, Autoplay, Navigation } from "swiper/modules";
+import { Pagination, Autoplay, } from "swiper/modules";
 import "swiper/css/pagination";
 
 // import required modules
@@ -60,8 +60,8 @@ function Teams() {
         </SwiperSlide>
         <SwiperSlide>
           <TeamCard 
-          title='Mark8 delivered outstanding results for our product launch. Their PR and content marketing strategies generated significant media coverage and drove a substantial traffic increased. We are extremely pleased with their work and the positive impact on our brand.'
-          name='Elliot Alderson'
+          title='Mark8 exceeded our expectations with their CMC and CG listing services! Their team demonstrated in-depth knowledge of the requirements and processes, ensuring a seamless and efficient listing experience. They handled everything professionally, from documentation to communication, making the entire process stress-free. Thanks to Mark8, our project is now gaining the visibility and credibility it deserves on CMC and CG. '
+          name='Sophia'
           Desi='Consultant'
           />
         </SwiperSlide>
@@ -75,7 +75,7 @@ function Teams() {
         </SwiperSlide>
         <SwiperSlide>
         <TeamCard 
-          title='Mark8 delivered outstanding results for our product launch. Their PR and content marketing strategies generated significant media coverage and drove a substantial traffic increased. We are extremely pleased with their work and the positive impact on our brand.'
+          title='I had an exceptional experience working with Mark8 for my project listing services. Their expertise in the Web3 space is unparalleled, and their strategic approach ensured our token listing was smooth and effective. The team is incredibly responsive, professional, and thorough in their work. Mark8 strong industry connections and innovative marketing strategies truly helped us gain significant visibility and traction. I highly recommend Mark8 for anyone looking to elevate their project in the blockchain ecosystem!'
           name='Elliot Alderson'
           Desi='Consultant'
           />
